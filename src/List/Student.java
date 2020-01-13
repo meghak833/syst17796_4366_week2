@@ -1,7 +1,7 @@
 
 package List;
 
-/** This class +++Insert Description Here+++
+/** This class having all required student attributes
  *
  * @author Megha Patel
  */
